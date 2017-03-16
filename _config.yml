@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-permalink: /blog/:categories/:year/:month/:day/:title.html
+permalink: /blog/:year-:month-:day/:title/
