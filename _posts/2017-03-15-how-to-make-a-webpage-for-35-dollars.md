@@ -4,6 +4,8 @@ title:  How to make a webpage for 35 dollars
 date:   2015-11-17 16:16:01 -0600
 ---
 
+# {{post.title}}
+
 There are a couple of thing you will need in order to have your own web page. Here I will show you step by step, how to do it spending as little as 35 dollars.
 
 # Domain name  
