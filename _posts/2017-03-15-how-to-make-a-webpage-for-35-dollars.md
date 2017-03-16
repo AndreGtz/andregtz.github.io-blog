@@ -16,18 +16,18 @@ For everyone else, take your time going through each step, some of this info wil
 
 If you have any question regarding this tutorial you can tweet me [@blodvodhr](https://twitter.com/blodvodhr) or opening an issue on [https://github.com/AndreGtz/blog/](https://github.com/AndreGtz/blog/)
 
-# Let's get started adquiring our Domain name  
+# Let's get started: Adquiring our Domain name  
 
 If you have never created or uploaded a website you might be wondering what a Domain name is and how to adquire one for yourself. Well you can read the [wiki](https://en.wikipedia.org/wiki/Domain_name) about it. If that doesn't make it clear basically it is your www.mypage.com thing, you have to pay to have your own "url".
 
 You can find lot of retailers on google by searching "domain name". I'm going to explain how to register your domain with GoDaddy just because it's my preferred choice and it has a good international covegare. In Godaddy you can get a .com domain for 15USD per year.
 
-To begin with use their search tool to find if your name is available, I'm going to search for mypage:
+To begin with use their search tool to find if your name is available, I'm going to search for *mypage*:
 ![mypagegif]()
 Which returns me all the names available for my name or a little variation of my name.
 
 **Which one is the best?**
-The easiest one to remember it's going to be always **.com**, it is the universal domain for internet.
+The easiest one to remember it's always going to be **.com**, it is the universal domain for internet.
 
 You can come out with clever domains like: make.it , which is more creative than makeit.com.
 
@@ -35,7 +35,7 @@ If you are making your personal page with your porfolio in it, you can use mynam
 
 There are a ton of domains, just search the list of posible domains and pick the one you think fits better for your purpose.
 
-Register your domain. So you have picked one (maybe more), this is where half of the money goes to, you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $2. If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
+**Register your domain**. So you have picked one (maybe more), this is where half of the money goes to, you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $2. If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
 
 # Hosting  
 Github pages it's my choice of hosting for static web pages. It is complex to upload your web page to it, but if you follow my steps you can totally do it.
