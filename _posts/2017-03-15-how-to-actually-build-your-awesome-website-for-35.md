@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  How to make a webpage for 35 dollars
+title:  How To Actually Build Your Awesome Website For $35
 date:   2015-11-17 16:16:01 -0600
 ---
 
