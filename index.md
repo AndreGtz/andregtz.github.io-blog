@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Open Web"
+title: Welcome to Open Web
 ---
 
 # Hi 
