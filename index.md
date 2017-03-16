@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title: Welcome to Open Web
 ---
+
 <ul>
   {% for post in site.posts %}
     <li>
