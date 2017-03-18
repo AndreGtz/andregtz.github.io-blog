@@ -9,6 +9,10 @@ date:   2017-03-17 16:16:01 -0700
 
 You are an entrepreneur, a professional looking for job or maybe you just need a simple website.
 
+This tutorial applies to static webpages, if you have a web app, then you actually need more money. 
+
+If you want a blog, then this tutorial is not for you, it can be done with the same budget but it needs a whole tutorial on its own. Maybe I will make a tutorial for that later.
+
 If you have looked around there are a ton of options for creating your own website, but nothing is free, and you can end up spending about $200 on your website.
 
 Here I will show you step by step, how to do it spending as little as 15 dollars.
@@ -32,7 +36,7 @@ I'm going to explain how to register your domain with GoDaddy just because it's 
 In Godaddy you can get a .com domain for 15USD per year.
 
 To begin with use their search tool to find if your name is available, I'm going to search for *mypage*:
-![mypagegif]()
+![mypagegif](http://i.imgur.com/OJTwZuc.gifv)
 Which returns all domains available for "mypage" or a little variation of "mypage".
 
 ## Which one is the best?  
