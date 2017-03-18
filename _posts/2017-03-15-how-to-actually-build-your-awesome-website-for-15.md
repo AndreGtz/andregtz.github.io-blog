@@ -36,7 +36,7 @@ I'm going to explain how to register your domain with GoDaddy just because it's 
 In Godaddy you can get a .com domain for 15USD per year.
 
 To begin with use their search tool to find if your name is available, I'm going to search for *mypage*:
-![mypagegif](http://i.imgur.com/OJTwZuc.gifv)
+<iframe src='https://gfycat.com/ifr/ImperturbableScrawnyDamselfly' frameborder='0' scrolling='no' width='640' height='357' allowfullscreen></iframe>
 Which returns all domains available for "mypage" or a little variation of "mypage".
 
 ## Which one is the best?  
@@ -57,9 +57,11 @@ If you go for make.it, make sure to buy make.com and/or makeit.com, so if people
 
 So you have picked one (maybe more), now you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. 
 
-This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $2. 
+This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $8. 
 
 If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
+
+Make your purchase and move on to the next step.
 
 # Hosting: Where your files are going to live. 
 Github pages it's my choice of hosting for static web pages because it is free and you can edit all your files inside of github without needing an editor. 
