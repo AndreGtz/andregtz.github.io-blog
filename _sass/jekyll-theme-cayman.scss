@@ -91,7 +91,9 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("/blog/images/idea.jpeg");
-
+  background-position:center;
+  backgrund-size:100%;
+  
   @include large {
     padding: 5rem 6rem;
   }
