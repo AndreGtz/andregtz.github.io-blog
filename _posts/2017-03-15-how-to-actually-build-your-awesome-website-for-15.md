@@ -6,7 +6,7 @@ date:   2015-11-17 16:16:01 -0600
 
 # {{page.title}}
 
-There are a couple of thing you will need in order to have your own web page. Here I will show you step by step, how to do it spending as little as 35 dollars.
+There are a couple of thing you will need in order to have your own web page. Here I will show you step by step, how to do it spending as little as 15 dollars.
 
 # Who is this for?
 
@@ -18,7 +18,7 @@ If you have any question regarding this tutorial you can tweet me [@blodvodhr](h
 
 # Let's get started: Adquiring your Domain name  
 
-A domain name is the url that points to your website.
+A domain name is the web address that points to your website.
 
 You can find a lot of sites to register your domain name by searching "domain name" on google. 
 
@@ -30,7 +30,7 @@ To begin with use their search tool to find if your name is available, I'm going
 ![mypagegif]()
 Which returns all domains available for "mypage" or a little variation of "mypage".
 
-**Which one is the best?**
+## Which one is the best?  
 
 .com is the most used domain, smartphones tend to have a special key [.com], and most people will add a .com when browsing for your site. 
 
@@ -44,7 +44,7 @@ As a recommendation first buy .com, and if you really like others buy them as we
 
 If you go for make.it, make sure to buy make.com and/or makeit.com, so if people enter those domains you can forward them to your domain make.it.
 
-**Register your domain**. 
+## Register your domain  
 
 So you have picked one (maybe more), this is where half of the money goes to, you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. 
 
@@ -52,7 +52,7 @@ This info will be public if people request the WhoIs for your domain name. Godad
 
 If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
 
-# Hosting  
+# Hosting: Where your files are going to live. 
 Github pages it's my choice of hosting for static web pages. It is complex to upload your web page to it, but if you follow my steps you can totally do it.
 
 For now create an account at github.com, we are going to use it later.
@@ -69,7 +69,7 @@ Some of them are free others cost you less than $20.
 
 If you choose a free template checkout the autors site and see if you can donate, they are giving away their hard work for you to use it freely, it is nice to reward them whenever you can.
 
-# Stock Pictures  
+# Stock Pictures: A powerful resource to make a normal website, beautiful  
 Most modern web pages have those awesome pictures on the background, they all have something in common: they are big, they are high-res and they are expensive... or not.
 
 I have a curated list of sites where you can get free stock pictures with creative and commons license with free comercial use for anything you want.
@@ -80,7 +80,7 @@ I have a curated list of sites where you can get free stock pictures with creati
 
 Since you are getting them for free, I invite you to donate to the authors and communities for their hard work.
 
-# SSL  
+# SSL: The security aspect  
 Getting a ssl certificate costs about $60 per year, but there are other options.
 Easiest one is to create an account at cloudflare and use the free service of one domain with ssl.
 Harder is to use letsencrypt.org to generate your own certificate for free.
