@@ -45,7 +45,7 @@ Which returns all domains available for "mypage" or a little variation of "mypag
 
 You can come out with clever domains like: make.it , which is more creative than makeit.com.
 
-If you are making your personal page with your porfolio in it, you can use myname.me.
+If you are making your personal page with your portfolio in it, you can use myname.me.
 
 There are a ton of domains, just search the list of posible domains and pick the one you think fits better your purpose.
 
@@ -130,6 +130,121 @@ It is ok to use cloudflare for free when you have a small page and almost no tra
 If you choose letsencrypt.org I urge you to donate a bit to them, they are making a service which costs more than $50 yearly for free. They need the donations to continue to provide this service for free.  
 
 # Using your template to actually show your info  
+
+I'll build a portfolio for myself to show you how to do it. 
+
+Let's get our hands dirty.
+
+Most templates files look the same, you see a bunch of folders and a bunch of files.
+{% highlight shell %}
+├── assets
+│   ├── css
+│   ├── fonts
+│   ├── js
+│   └── sass
+├── elements.html
+├── generic.html
+├── images
+│   ├── banner.jpg
+│   ├── pic01.jpg
+│   ├── pic02.jpg
+│   ├── pic03.jpg
+│   ├── pic04.jpg
+│   ├── pic05.jpg
+│   ├── pic06.jpg
+│   ├── pic07.jpg
+│   ├── pic08.jpg
+│   ├── pic09.jpg
+│   ├── pic10.jpg
+│   └── pic11.jpg
+├── index.html
+├── landing.html
+├── LICENSE.txt
+└── README.txt
+
+6 directories, 18 files
+{% endhighlight %}
+
+Let's find out what do you need to modify.
+
+Open the index.html on your web browser.
+
+<iframe src='https://gfycat.com/ifr/JointOrneryAllosaurus' frameborder='0' scrolling='no' width='640' height='357' allowfullscreen></iframe>
+
+So that's the website, it still has the template text and titles, let's change that.
+
+The title: Also known as the tab text.
+
+I'm going to change it to Andre's Portfolio.
+<iframe src='https://gfycat.com/ifr/PerfumedMealyGroundbeetle' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+
+Next change the navigation title to your own.
+<iframe src='https://gfycat.com/ifr/PinkFineHammerkop' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+
+As you can see you can change the content of your page pretty easily, just search for the word(s) you want to change, modify it, save, and reload the page.
+
+Change the
+> Hi, my name is Forty
+and the description below it, also remove the button.
+<iframe src='https://gfycat.com/ifr/WarpedForsakenGossamerwingedbutterfly' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+
+Keep doing this until you are satisfied with all the page. Remove anything you don't want.
+
+So far we have this:
+![]()
+
+Remember those stock photos I told you, now we are using them.
+If you can recall from the directory structure, there were some images named like banner.jpg and pic01.jpg.
+I'll make it easier, here:
+{% highlight shell %}
+├── assets
+│   ├── css
+│   ├── fonts
+│   ├── js
+│   └── sass
+├── elements.html
+├── generic.html
+├── images
+│   ├── banner.jpg
+│   ├── pic01.jpg
+│   ├── pic02.jpg
+│   ├── pic03.jpg
+│   ├── pic04.jpg
+│   ├── pic05.jpg
+│   ├── pic06.jpg
+│   ├── pic07.jpg
+│   ├── pic08.jpg
+│   ├── pic09.jpg
+│   ├── pic10.jpg
+│   └── pic11.jpg
+├── index.html
+├── landing.html
+├── LICENSE.txt
+└── README.txt
+
+6 directories, 18 files
+{% endhighlight %}
+
+Include your images to the same folder:
+<iframe src='https://gfycat.com/ifr/LazyImpassionedBagworm' frameborder='0' scrolling='no' width='640' height='415' allowfullscreen></iframe>
+
+Then you need to make the website show your images instead of the template images.
+
+Things are turning technical, but follow me, this is the last step on before we mount the website.
+
+There are two ways to show images: HTML or CSS. You need to search if the specific image you want to change is declared on the index.html or in css/main.css (normally you will have a main.css or base.css).
+
+Search on the index.html for banner.jpg to see if it is declared there:
+<iframe src='https://gfycat.com/ifr/MammothRightEsok' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+... Nop, it is not there. 
+Maybe in main.css
+<iframe src='https://gfycat.com/ifr/MagnificentFrequentBrahmancow' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+Oh, there it is. Change the name of the file to your file, in my case 'walking.jpg'.  
+And reload the page.
+<iframe src='https://gfycat.com/ifr/AmazingCreamyKarakul' frameborder='0' scrolling='no' width='640' height='386' allowfullscreen></iframe>
+There, you made it.
+
+Now add one more.
 
 # Mounting your site on github pages  
 ## Creating the project  
