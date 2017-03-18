@@ -16,14 +16,19 @@ For everyone else, take your time going through each step, some of this info wil
 
 If you have any question regarding this tutorial you can tweet me [@blodvodhr](https://twitter.com/blodvodhr) or opening an issue on [https://github.com/AndreGtz/blog/](https://github.com/AndreGtz/blog/)
 
-# Let's get started: Adquiring our Domain name  
+# Let's get started: Adquiring your Domain name  
 
-If you have never created or uploaded a website you might be wondering what a Domain name is and how to adquire one for yourself. Well you can read the [wiki](https://en.wikipedia.org/wiki/Domain_name) about it. If that doesn't make it clear basically it is your www.mypage.com thing, you have to pay to have your own "url".
+A domain name is the url that points to your website.
 
-You can find lot of retailers on google by searching "domain name". I'm going to explain how to register your domain with GoDaddy just because it's my preferred choice and it has a good international covegare. In Godaddy you can get a .com domain for 15USD per year.
+You can find lot of sites to register your domain name by searching "domain name" on google. 
+
+I'm going to explain how to register your domain with GoDaddy just because it's my preferred choice and it has a good international covegare. 
+
+In Godaddy you can get a .com domain for 15USD per year.
 
 To begin with use their search tool to find if your name is available, I'm going to search for *mypage*:
 ![mypagegif]()
+<iframe src='https://gfycat.com/ifr/BleakSpanishAmericangoldfinch' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
 Which returns me all the names available for my name or a little variation of my name.
 
 **Which one is the best?**
@@ -33,14 +38,20 @@ You can come out with clever domains like: make.it , which is more creative than
 
 If you are making your personal page with your porfolio in it, you can use myname.me.
 
-There are a ton of domains, just search the list of posible domains and pick the one you think fits better for your purpose.
+There are a ton of domains, just search the list of posible domains and pick the one you think fits better your purpose.
 
-**Register your domain**. So you have picked one (maybe more), this is where half of the money goes to, you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $2. If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
+**Register your domain**. 
+
+So you have picked one (maybe more), this is where half of the money goes to, you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. 
+
+This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $2. 
+
+If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
 
 # Hosting  
 Github pages it's my choice of hosting for static web pages. It is complex to upload your web page to it, but if you follow my steps you can totally do it.
 
-Create an account at github.com, we are going to use it later.
+For now create an account at github.com, we are going to use it later.
 
 # CSS Themes / Design  
 If you are a designer you probably already have your webpage all set and ready to uploading, if you are like me, you will probably need to buy a theme or contract a designer to design your awesome page.
