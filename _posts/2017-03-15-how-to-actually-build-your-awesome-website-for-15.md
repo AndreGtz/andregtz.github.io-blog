@@ -61,6 +61,8 @@ This info will be public if people request the WhoIs for your domain name. Godad
 
 If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
 
+<iframe src='https://gfycat.com/ifr/FreshAdorableKitfox' frameborder='0' scrolling='no' width='640' height='357' allowfullscreen></iframe>
+
 Make your purchase and move on to the next step.
 
 # Hosting: Where your files are going to live. 
@@ -69,6 +71,8 @@ Github pages it's my choice of hosting for static web pages because it is free a
 It's use is more oriented to programmers, but don't let this discourage you, once you get the hang out of it, it's going to be your (and your pocket) best friend.
 
 For now create an account at [Github](https://github.com/), we are going to use it later.
+
+<iframe src='https://gfycat.com/ifr/MellowAfraidAdamsstaghornedbeetle' frameborder='0' scrolling='no' width='640' height='382' allowfullscreen></iframe>
 
 # The design
 If you are a web designer you probably already have your webpage all set and ready to uploading, if you are like me, you will probably need to buy a theme or contract a designer to design your awesome page.
