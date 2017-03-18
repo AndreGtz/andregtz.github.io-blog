@@ -67,9 +67,9 @@ For now create an account at [Github](https://github.com/), we are going to use 
 # The design
 If you are a web designer you probably already have your webpage all set and ready to uploading, if you are like me, you will probably need to buy a theme or contract a designer to design your awesome page.
 
-Unless you take the time to search for free templates.
+Unless, you take the time to search for free templates.
 
-Here are some sites I go to buy themes for my pages:
+Here are some sites I go to search themes for my pages:
 - [html5up](https://html5up.net/) free templates
 - [themeforest](https://themeforest.net/category/site-templates/) templates for sale <$20 and give you support
 - [templated](https://templated.co/) free templates
@@ -93,7 +93,19 @@ Since you are getting them for free, I invite you to donate to the authors and c
 
 SSL (Secure Sockets Layer) is a standard technology to make an encrypted link between your server and the client, so all the information that is shared between the two of them is secure.
 
-Getting a ssl certificate costs about $70 per year, but there are other options.
+## Do I need a SSL Certificate?
+
+3 reasons to have a SSL Certificate:
+
+1. If you are getting data from users then you must have a SSL Certificate otherwise their data could be compromised.
+
+2. Having a SSL Certificate improves your score on search engines, so your website can appear higher.
+
+3. It builds trust on your visitors.
+
+If you don't need anything from those reasons you can live without it.
+
+Getting a SSL Certificate costs about $70 per year (like on godaddy), but there are other options.
 
 Easiest one is to create an account at [cloudflare](https://www.cloudflare.com/plans/) and use the free service of one domain with ssl.
 
