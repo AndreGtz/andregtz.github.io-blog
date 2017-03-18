@@ -191,7 +191,7 @@ and the description below it, also remove the button.
 Keep doing this until you are satisfied with all the page. Remove anything you don't want.
 
 So far we have this:
-![]()
+![webpage](/blog/images/editedWebPage.png)
 
 Remember those stock photos I told you, now we are using them.
 If you can recall from the directory structure, there were some images named like banner.jpg and pic01.jpg.
