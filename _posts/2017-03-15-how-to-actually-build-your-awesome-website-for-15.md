@@ -80,13 +80,15 @@ If you are a web designer you probably already have your webpage all set and rea
 Unless, you take the time to search for free templates.
 
 Here are some sites I go to search themes for my pages:
-- [html5up](https://html5up.net/) free templates
+- [html5up](https://html5up.net/) free templates. (Be sure to checkout the [license](https://html5up.net/license))
 - [themeforest](https://themeforest.net/category/site-templates/) templates for sale <$20 and give you support
 - [templated](https://templated.co/) free templates
 
+<iframe src='https://gfycat.com/ifr/ThoroughMenacingBasil' frameborder='0' scrolling='no' width='640' height='382' allowfullscreen></iframe>
+
 Some of them are free others cost you less than $20.
 
-If you choose a free template checkout the autors site and see if you can donate, they are giving away their hard work for you to use it freely, it is nice to reward them whenever you can.
+If you choose a free template checkout the autors site and see if you can donate, they are giving away their hard work for you to use it freely, it is nice to reward them whenever you can. Also give credit where due.
 
 # Stock Pictures: A powerful resource to make a normal website, beautiful  
 Most modern web pages have those awesome pictures on the background, and they all have something in common: they are big, they are high-res and they are expensive... or not.
@@ -96,6 +98,8 @@ I have a list of sites where you can get free stock pictures with creative and c
 - [unsplash](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
 - [pexels](https://www.pexels.com/) you can search here photos from other sites like unsplash and pixabay.
+
+<iframe src='https://gfycat.com/ifr/HeavenlyAppropriateCopperhead' frameborder='0' scrolling='no' width='640' height='382' allowfullscreen></iframe>
 
 Since you are getting them for free, I invite you to donate to the authors and communities for their hard work.
 
