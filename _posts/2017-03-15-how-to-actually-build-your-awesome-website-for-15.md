@@ -1,12 +1,17 @@
 ---
 layout: default
 title:  How To Actually Build Your Awesome Website For $15
-date:   2015-11-17 16:16:01 -0600
+date:   2017-03-17 16:16:01 -0700
 ---
 
 # {{page.title}}
 
-There are a couple of thing you will need in order to have your own web page. Here I will show you step by step, how to do it spending as little as 15 dollars.
+
+You are an entrepreneur, a professional looking for job or maybe you just need a simple website.
+
+If you have looked around there are a ton of options for creating your own website, but nothing is free, and you can end up spending about $200 on your website.
+
+Here I will show you step by step, how to do it spending as little as 15 dollars.
 
 # Who is this for?
 
@@ -46,7 +51,7 @@ If you go for make.it, make sure to buy make.com and/or makeit.com, so if people
 
 ## Register your domain  
 
-So you have picked one (maybe more), this is where half of the money goes to, you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. 
+So you have picked one (maybe more), now you will need to register an account on godaddy and give godaddy your full name, address, phone number, etc. 
 
 This info will be public if people request the WhoIs for your domain name. Godaddy offers to hide your information for about $2. 
 
@@ -55,9 +60,9 @@ If your privacy concerns you, go ahead an pay for it, otherwhise just take note 
 # Hosting: Where your files are going to live. 
 Github pages it's my choice of hosting for static web pages because it is free and you can edit all your files inside of github without needing an editor. 
 
-It's use is a little bit more oriented to programmers, but don't let this discourage you, once you get the hang out of it, it's going to be your(and your pocket) best friend.
+It's use is more oriented to programmers, but don't let this discourage you, once you get the hang out of it, it's going to be your (and your pocket) best friend.
 
-For now create an account at github.com, we are going to use it later.
+For now create an account at [Github](https://github.com/), we are going to use it later.
 
 # The design
 If you are a web designer you probably already have your webpage all set and ready to uploading, if you are like me, you will probably need to buy a theme or contract a designer to design your awesome page.
@@ -86,7 +91,7 @@ Since you are getting them for free, I invite you to donate to the authors and c
 
 # SSL: The security aspect  
 
-SSL (Secure Sockets Layer)is a standard technology to make a link between your server and the client encrypted, so all the information that is shared between the two of them is secure.
+SSL (Secure Sockets Layer) is a standard technology to make an encrypted link between your server and the client, so all the information that is shared between the two of them is secure.
 
 Getting a ssl certificate costs about $70 per year, but there are other options.
 
