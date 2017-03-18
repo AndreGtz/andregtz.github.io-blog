@@ -53,41 +53,50 @@ This info will be public if people request the WhoIs for your domain name. Godad
 If your privacy concerns you, go ahead an pay for it, otherwhise just take note that your info will be exposed on internet.
 
 # Hosting: Where your files are going to live. 
-Github pages it's my choice of hosting for static web pages. It is complex to upload your web page to it, but if you follow my steps you can totally do it.
+Github pages it's my choice of hosting for static web pages because it is free and you can edit all your files inside of github without needing an editor. 
+
+It's use is a little bit more oriented to programmers, but don't let this discourage you, once you get the hang out of it, it's going to be your(and your pocket) best friend.
 
 For now create an account at github.com, we are going to use it later.
 
-# HTML/CSS Templates / Design  
-If you are a designer you probably already have your webpage all set and ready to uploading, if you are like me, you will probably need to buy a theme or contract a designer to design your awesome page.
+# The design
+If you are a web designer you probably already have your webpage all set and ready to uploading, if you are like me, you will probably need to buy a theme or contract a designer to design your awesome page.
+
+Unless you take the time to search for free templates.
 
 Here are some sites I go to buy themes for my pages:
-- https://html5up.net/
-- https://themeforest.net/category/site-templates/
-- https://templated.co/
+- [html5up](https://html5up.net/) free templates
+- [themeforest](https://themeforest.net/category/site-templates/) templates for sale <$20 and give you support
+- [templated](https://templated.co/) free templates
 
 Some of them are free others cost you less than $20.
 
 If you choose a free template checkout the autors site and see if you can donate, they are giving away their hard work for you to use it freely, it is nice to reward them whenever you can.
 
 # Stock Pictures: A powerful resource to make a normal website, beautiful  
-Most modern web pages have those awesome pictures on the background, they all have something in common: they are big, they are high-res and they are expensive... or not.
+Most modern web pages have those awesome pictures on the background, and they all have something in common: they are big, they are high-res and they are expensive... or not.
 
-I have a curated list of sites where you can get free stock pictures with creative and commons license with free comercial use for anything you want.
+I have a list of sites where you can get free stock pictures with creative and commons license with free comercial use for anything you want.
 
-- https://unsplash.com/
-- https://pixabay.com/
-- https://www.pexels.com/ you can search here photos from other sites like unsplash and pixabay.
+- [unsplash](https://unsplash.com/)
+- [pixabay](https://pixabay.com/)
+- [pexels](https://www.pexels.com/) you can search here photos from other sites like unsplash and pixabay.
 
 Since you are getting them for free, I invite you to donate to the authors and communities for their hard work.
 
 # SSL: The security aspect  
-Getting a ssl certificate costs about $60 per year, but there are other options.
-Easiest one is to create an account at cloudflare and use the free service of one domain with ssl.
-Harder is to use letsencrypt.org to generate your own certificate for free.
+
+SSL (Secure Sockets Layer)is a standard technology to make a link between your server and the client encrypted, so all the information that is shared between the two of them is secure.
+
+Getting a ssl certificate costs about $70 per year, but there are other options.
+
+Easiest one is to create an account at [cloudflare](https://www.cloudflare.com/plans/) and use the free service of one domain with ssl.
+
+Harder is to use [letsencrypt.org](https://letsencrypt.org/) to generate your own certificate for free.
 
 It is ok to use cloudflare for free when you have a small page and almost no traffic, but if you grow larger remind yourself to come back and start paying for the $20 plan that gives you added security and better performance.
 
-If you choose letsencrypt.org I urge you to donate a bit to them, they are making a service which costs more than $50 yearly for free. They need the donations to continue to provide this service for free. They are awesome.
+If you choose letsencrypt.org I urge you to donate a bit to them, they are making a service which costs more than $50 yearly for free. They need the donations to continue to provide this service for free.  
 
 # Using your template to actually show your info  
 
