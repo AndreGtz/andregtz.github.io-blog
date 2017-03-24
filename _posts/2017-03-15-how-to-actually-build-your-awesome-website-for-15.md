@@ -133,6 +133,8 @@ It is ok to use cloudflare for free when you have a small page and almost no tra
 
 If you choose letsencrypt.org I urge you to donate a bit to them, they are making a service which costs more than $50 yearly for free. They need the donations to continue to provide this service for free.  
 
+We are going to configure the SSL Certificate later.
+
 # Using your template to actually show your info  
 
 I'll build a portfolio for myself to show you how to do it. 
