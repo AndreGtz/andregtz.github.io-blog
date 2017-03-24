@@ -7,21 +7,25 @@ date:   2017-03-17 16:16:01 -0700
 # {{page.title}}
 
 
-You are an entrepreneur, a professional looking for job or maybe you just need a simple website.
+You are an entrepreneur, a professional looking for job or maybe you need a simple website.
 
-This tutorial applies to static webpages, if you have a web app, then you actually need more money. 
+This tutorial applies to static webpages, if you have a web app, then you actually need more money.
 
 If you want a blog, then this tutorial is not for you, it can be done with the same budget but it needs a whole tutorial on its own. Maybe I will make a tutorial for that later.
 
-If you have looked around there are a ton of options for creating your own website, but nothing is free, and you can end up spending about $200 on your website.
+If you have looked around, there are a ton of options and you can end up spending about $200 on your website.
 
 Here I will show you step by step, how to do it spending as little as 15 dollars.
 
 # Who is this for?
 
-I wrote this tutorial with non-developers in mind, if you are a developer/programmer/designer you might not need to read all the tutorial just go for the sites that I recommend and you can pretty much figure out everything else.
+I wrote this tutorial with non-developers in mind.
 
-For everyone else, take your time going through each step, some of this info will look really complex but in reality it is pretty simple, I'm going to try my best to explain everything so anyone can do it.  
+If you are a developer/programmer/designer you don't need to read all the tutorial. Go for the sites that I recommend and you can figure out everything else.
+
+Otherwise take your time going through each step.
+
+I'm going to try my best to explain everything so anyone can do it.
 
 If you have any question regarding this tutorial you can tweet me [@blodvodhr](https://twitter.com/blodvodhr) or opening an issue on [https://github.com/AndreGtz/blog/](https://github.com/AndreGtz/blog/)
 
@@ -31,7 +35,7 @@ A domain name is the web address that points to your website.
 
 You can find a lot of sites to register your domain name by searching "domain name" on google. 
 
-I'm going to explain how to register your domain with GoDaddy just because it's my preferred choice and it has a good international covegare. 
+I'm going to explain how to register your domain with GoDaddy. Because it's my preferred choice and it has a good international covegare. 
 
 In Godaddy you can get a .com domain for 15USD per year.
 
@@ -47,11 +51,11 @@ You can come out with clever domains like: make.it , which is more creative than
 
 If you are making your personal page with your portfolio in it, you can use myname.me.
 
-There are a ton of domains, just search the list of posible domains and pick the one you think fits better your purpose.
+There are a ton of domains, search the list of posible domains and pick the one you think fits better your purpose.
 
-As a recommendation first buy .com, and if you really like others buy them as well.
+As a recommendation first buy .com, and if you  like others buy them as well.
 
-If you go for make.it, make sure to buy make.com and/or makeit.com, so if people enter those domains you can forward them to your domain make.it.
+If you go for make.it, make sure to buy make.com and/or makeit.com. So if people enter those domains you can forward them to your domain make.it.
 
 ## Register your domain  
 
