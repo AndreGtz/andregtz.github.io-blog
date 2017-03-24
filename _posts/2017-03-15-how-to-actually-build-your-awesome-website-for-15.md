@@ -297,9 +297,9 @@ If it doesn't appear go to settings and activate github pages.
 <iframe src='https://gfycat.com/ifr/SoreSlimyGordonsetter' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
 
 If it still doesn't load try creating a file named '_config.yml' and putting your project name 
-<% shell %>
+<% hightlight shell %>
 baseurl:/portfolio
-<% %>
+<% endhighlight %>
 
 <iframe src='https://gfycat.com/ifr/CommonBasicBaboon' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
 
