@@ -282,7 +282,7 @@ Here it doesn't let me name it like that because I already have that repository.
 
 To have multiple pages you can name the repository 'otherpage' that will let you access your 'otherpage' with [username].github.io/otherpage.
 
-My blog's repository name is blog and you can see it on [andregtz.github.io/blog](andregtz.github.io/blog).
+My blog's repository name is blog and you can see it on [andregtz.github.io/blog](https://andregtz.github.io/blog).
 
 ## Uploading your content  
 
