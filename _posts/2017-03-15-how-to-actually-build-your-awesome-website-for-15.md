@@ -248,11 +248,61 @@ And reload the page.
 <iframe src='https://gfycat.com/ifr/AmazingCreamyKarakul' frameborder='0' scrolling='no' width='640' height='386' allowfullscreen></iframe>
 There, you made it.
 
-Now add one more.
+Now add one more. 
 
-# Mounting your site on github pages  
+Find pic01.jpg, looks like it is in index.html.
+
+Change the name of the file to yours and refresh page.
+
+<iframe src='https://gfycat.com/ifr/DifficultAssuredDikkops' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+
+You can repeat this process for every image that you want to change.
+
+If you only need, say 4 images, then delete the other images from the index.html file.
+
+By now you should have all the abilities to modify your page, now it's time to...
+
+# Mounting your site on Github pages  
+Github is where you can version the code for your projects, basically it means that by uploading your code to Github gives you the ability to review every single change you or collaborators have done to your code. Which is awesome and will save you tons of time.
+
+By itself Github won't run your code, that's why Github pages exists, you can host static websites on Github and show them on Github pages.
+
 ## Creating the project  
+Open this link to [create a new repository](https://github.com/new).
+
+For the repository name you must name it: [yourusername].github.io (In my case it would be: andregtz.github.io)
+
+Otherwise it's not going to show up on github pages.
+
+**Important: be sure to enable the 'Initialize this repository with a README' checkbox**. Otherwise it won't let you upload your files.
+
+<iframe src='https://gfycat.com/ifr/SeparateLegitimateGemsbuck' frameborder='0' scrolling='no' width='640' height='370' allowfullscreen></iframe>
+
+Here it doesn't let me name it like that because I already have that repository.
+
+To have multiple pages you can name the repository 'otherpage' that will let you access your 'otherpage' with [username].github.io/otherpage.
+
+My blog's repository name is blog and you can see it on [andregtz.github.io/blog](andregtz.github.io/blog).
+
 ## Uploading your content  
+
+On your repository, click upload files button, select all the files of your site.
+Wait until it uploads them.
+<iframe src='https://gfycat.com/ifr/HilariousVainCat' frameborder='0' scrolling='no' width='640' height='368' allowfullscreen></iframe>
+
+Now you should be able to see your content on: https://[yourusername].github.io/
+
+If it doesn't appear go to settings and activate github pages.
+
+<iframe src='https://gfycat.com/ifr/SoreSlimyGordonsetter' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
+
+If it still doesn't load try creating a file named '_config.yml' and putting your project name 
+<% shell %>
+baseurl:/portfolio
+<% %>
+
+<iframe src='https://gfycat.com/ifr/CommonBasicBaboon' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
+
 ## Setting the domain name  
 ## Setting the ssl  
-## Modifing your site inside github  
+## Modifing your site inside Github  
