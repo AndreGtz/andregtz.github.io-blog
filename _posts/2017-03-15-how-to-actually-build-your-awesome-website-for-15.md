@@ -342,7 +342,7 @@ Go to your github repositorie and create a new document named CNAME, inside it w
 <iframe src='https://gfycat.com/ifr/PointlessImmediateAiredale' frameborder='0' scrolling='no' width='640' height='416' allowfullscreen></iframe>
 
 Wait a couple of minutes to take effect and now you can enter your domain name in the browser and it should show you your page.
-
+![](/blog/images/working.png)
 
 ## Setting the ssl  
 ## Modifing your site inside Github  
