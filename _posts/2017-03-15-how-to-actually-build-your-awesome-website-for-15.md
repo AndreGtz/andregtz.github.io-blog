@@ -311,16 +311,16 @@ Go to godaddy.com.
 
 On the top right corner click on your **profile name** -> **My Products**
 
-![]()
+![](/blog/images/godaddy-myProducts.png)
 
 Click on **Manage** under **Domains**
 
-![]()
+![](/blog/images/godaddy-domains.png)
 
 Under your site name click on the top right corner 'gear icon' and select Manage DNS.
 
 It should take you to a page similar to this one:
-![]()
+![](/blog/images/godaddy-dnsManagement.png)
 
 Search the add button, mine is on the bottom of the list. And click it.
 
@@ -331,8 +331,8 @@ You are going to add 3 new records for your domain.
 3. Now add a new record but in type select: CNAME, in host: www, and in Points to: yourusername.github.io.
 
 Mine looks like this:
-![]()
-![]()
+![](/blog/images/records-1.png)
+![](/blog/images/records-2.png)
 
 You need to wait until the changes propagate over the network, it took less than 1 minute to me but it can take more time.
 
