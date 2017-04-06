@@ -345,4 +345,33 @@ Wait a couple of minutes to take effect and now you can enter your domain name i
 ![](/blog/images/working.png)
 
 ## Setting the ssl  
+
+Go to cloudflare.com and +add a Site, if your account is new it should take you directly to that.
+
+![](/blog/images/cloudflare-addWebsite.png)
+Enter your domain name. Click on Scan DNS Records. And wait about a minute. (When I did this it showed me that the scanning was done, but clicking on continue didn't do anything, just wait a couple of minutes more and try again. Took me about 5min)
+
+Once the scanning is done click on continue.
+![](/blog/images/scanning.png)
+Verify that your records are listed, just verify that the registers that you added on godaddy are listed there. With this I mean de two A registers and the CNAME register.
+![](/blog/images/verify-records.png)
+Click on continue.
+
+Choose the Free Website option.
+![](/blog/images/free-website.png)
+
+Click on continue.
+
+Change the nameservers to the ones provided by cloudflare.
+<iframe src='https://gfycat.com/ifr/UnknownGleefulGoat' frameborder='0' scrolling='no' width='640' height='446' allowfullscreen></iframe>
+
+Check your email godaddy might ask you if you did this, confirm you did.
+
+Next email you get should be from cloudflare saying that you have successfully added the website.
+
+It can take 24hrs to see the change, once it finishes your webpage should say https before your domain name.
+
+![]()
+
+
 ## Modifing your site inside Github  
