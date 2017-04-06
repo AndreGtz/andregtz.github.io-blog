@@ -306,5 +306,43 @@ baseurl:/portfolio
 <iframe src='https://gfycat.com/ifr/CommonBasicBaboon' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
 
 ## Setting the domain name  
+
+Go to godaddy.com.
+
+On the top right corner click on your **profile name** -> **My Products**
+
+![]()
+
+Click on **Manage** under **Domains**
+
+![]()
+
+Under your site name click on the top right corner 'gear icon' and select Manage DNS.
+
+It should take you to a page similar to this one:
+![]()
+
+Search the add button, mine is on the bottom of the list. And click it.
+
+You are going to add 3 new records for your domain.
+
+1. Add a new record in type select: A, in host: @ and in Points to: 192.30.252.153 . Leave TTL as it is.
+2. Add another new record in type select: A, in host: @ and in Points to: 192.30.252.154 . Leave TTL as it is.
+3. Now add a new record but in type select: CNAME, in host: www, and in Points to: yourusername.github.io.
+
+Mine looks like this:
+![]()
+![]()
+
+You need to wait until the changes propagate over the network, it took less than 1 minute to me but it can take more time.
+
+### Setting the domain name on Github
+
+Go to your github repositorie and create a new document named CNAME, inside it write your domain name.
+<iframe src='https://gfycat.com/ifr/PointlessImmediateAiredale' frameborder='0' scrolling='no' width='640' height='416' allowfullscreen></iframe>
+
+Wait a couple of minutes to take effect and now you can enter your domain name in the browser and it should show you your page.
+
+
 ## Setting the ssl  
 ## Modifing your site inside Github  
