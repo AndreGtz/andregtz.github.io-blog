@@ -371,7 +371,8 @@ Next email you get should be from cloudflare saying that you have successfully a
 
 It can take 24hrs to see the change, once it finishes your webpage should say https before your domain name.
 
-![]()
+![](/blog/images/cloudflare-done.png)
+![](/blog/images/https.png)
 
 
 ## Modifing your site inside Github  
