@@ -399,3 +399,42 @@ Then I commit the changes and reload the page (notice that it takes a few second
 <iframe src='https://gfycat.com/ifr/NaiveImmediateIbisbill' frameborder='0' scrolling='no' width='640' height='460' allowfullscreen></iframe>
 
 If you have more things to change repeat these steps for all the changes you want.
+
+
+# Recap for the experienced
+
+1. Get your domain name. If you already have one, continue.
+
+2. Get a template either by searching it or by contracting a profesional designer.  
+To look for templates look for sites like [html5up](https://html5up.net/), [themeforest](https://themeforest.net/category/site-templates/) and [templated](https://templated.co/).
+
+3. Get your stock pictures to fill your site.
+Some sites are [unsplash](https://unsplash.com/), [pixabay](https://pixabay.com/) and [pexels](https://www.pexels.com/).
+
+4. Personalize your template and upload your code to github.
+
+5. Redirect your domain name to your github pages project and create the CNAME file on Github.
+
+6. Create a free account on Cloudflare and add your domain name, update your name servers on your Domain Name provider.
+
+And that's it.
+
+# Final notes
+
+## Why I made this tutorial?  
+I've noticed that there are a lot of people needing simple websites but don't have the resources to pay more than $200 yearly in a website that they still don't know if it's going to payback.  
+
+This is my way to help out entrepreneurs and freelancers, I hope it helps.
+
+## This is not the end...
+If you already knew about these resources or better yet, you know more resources than I do then feel free to [fork this article](https://github.com/AndreGtz/blog/) and contribute to it. Maybe we can discover a budget way to get your apps online and compare with others the costs of our projects on each platform.
+
+## About me
+I'm 26yo currently, and I've been programming for 11 years. On my last year at college I discovered the entrepreneur culture and since then I read and try everything I get my hands on. This tutorial is part of one of my projects.
+
+If you don't have time or feel stuck while building or migrating your website with my method then feel free to contact me and we can negotiate a price for my services.
+
+## My Media
+[Star me on Github](https://github.com/AndreGtz/)
+[Follow me on Twitter](https://twitter.com/blodvodhr)
+Send me a mail to <a href="mailto:andre@andrestefang.com" target="_top">andre@andrestefang.com</a>
