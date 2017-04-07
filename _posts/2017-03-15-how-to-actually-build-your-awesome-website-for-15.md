@@ -435,6 +435,6 @@ I'm 26yo currently, and I've been programming for 11 years. On my last year at c
 If you don't have time or feel stuck while building or migrating your website with my method then feel free to contact me and we can negotiate a price for my services.
 
 ## My Media
-[Star me on Github](https://github.com/AndreGtz/)
-[Follow me on Twitter](https://twitter.com/blodvodhr)
-Send me a mail to <a href="mailto:andre@andrestefang.com" target="_top">andre@andrestefang.com</a>
+[Star me on Github](https://github.com/AndreGtz/)  
+[Follow me on Twitter](https://twitter.com/blodvodhr)  
+Send me a mail to <a href="mailto:andre@andrestefang.com" target="_top">andre@andrestefang.com</a>  
