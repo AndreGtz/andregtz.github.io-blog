@@ -376,3 +376,24 @@ It can take 24hrs to see the change, once it finishes your webpage should say ht
 
 
 ## Modifing your site inside Github  
+
+By now everything was setup and you already have your website up and running.
+
+The only reason you will need this part of the tutorial is when you want to change your website.
+
+Fortunately Github lets you modify the files inside Github.
+
+I'm going to modify my portfolio website and show you how I do it.
+
+First I find the index.html of my project.
+
+I click on edit.
+
+Remember when you edited your index.html to show your information instead of the template text, well you are going to do the same here.
+
+Search for the part that you want to change. In my case I want to change: "I'm a web developer" for "I'm a web & app developer, entrepreneur, computers systems engineer and technology enthusiast based in México."
+
+
+Then I commit the changes and reload the page.
+
+If you have more things to change repeat these steps for all the changes you want.
