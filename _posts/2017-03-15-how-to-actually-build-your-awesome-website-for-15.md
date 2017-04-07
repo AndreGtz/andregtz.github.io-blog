@@ -394,6 +394,8 @@ Remember when you edited your index.html to show your information instead of the
 Search for the part that you want to change. In my case I want to change: "I'm a web developer" for "I'm a web & app developer, entrepreneur, computers systems engineer and technology enthusiast based in México."
 
 
-Then I commit the changes and reload the page.
+Then I commit the changes and reload the page (notice that it takes a few seconds to update your changes on the site).
+
+<iframe src='https://gfycat.com/ifr/NaiveImmediateIbisbill' frameborder='0' scrolling='no' width='640' height='460' allowfullscreen></iframe>
 
 If you have more things to change repeat these steps for all the changes you want.
