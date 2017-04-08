@@ -1,8 +1,10 @@
 ---
 layout: default
+comments: true
 title:  How To Actually Build Your Awesome Website For $15
 date:   2017-03-17 16:16:01 -0700
 ---
+
 
 # {{page.title}}
 
