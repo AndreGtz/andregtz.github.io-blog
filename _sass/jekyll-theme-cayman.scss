@@ -92,8 +92,9 @@ a {
   background-color: $header-bg-color;
   background-image: url("/blog/images/idea.jpeg");
   background-position:center;
-  backgrund-size:100%;
-  
+  background-size:100%;
+  height:30vw;
+
   @include large {
     padding: 5rem 6rem;
   }
@@ -177,12 +178,17 @@ a {
   h5,
   h6 {
     margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1em;
     font-weight: normal;
     color: $section-headings-color;
   }
 
   p {
+    margin-bottom: 3em;
+  }
+
+  ul {
+    margin-top: -2em;
     margin-bottom: 3em;
   }
 
@@ -265,6 +271,7 @@ a {
     margin-left: 0;
     color: $blockquote-text-color;
     border-left: 0.3rem solid $border-color;
+    margin-bottom: 3em;
 
     > :first-child {
       margin-top: 0;
@@ -344,4 +351,52 @@ a {
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+#nav-bar{
+  background-color: rgba(255,255,255,0.3);
+  box-shadow: none;
+  position: absolute;
+  display: flex;
+  height: 3.25em;
+  margin:0;
+  top:0;
+  width: 100%;
+  z-index: 1000;
+
+  .logo{
+    border:0;
+    display: inline-block;
+    font-size: 1.2em;
+    height: inherit;
+    padding: 0 1.5em;
+    vertical-align: middle;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    top: 15px;
+    font-weight: bold;
+  }
+
+  ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: 1;
+    height: inherit;
+    line-height: inherit;
+    li{
+      border:0;
+      display:block;
+      height: inherit;
+      padding: 0 0.75em;
+      position:relative;
+      vertical-align: middle;
+      a{
+        font-size: 1.2em;
+        color: white;
+        text-decoration: none;
+      }
+    };
+  }
 }

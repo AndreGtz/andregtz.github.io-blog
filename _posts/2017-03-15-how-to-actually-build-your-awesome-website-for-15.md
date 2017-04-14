@@ -2,33 +2,39 @@
 layout: post
 comments: true
 title:  How To Actually Build Your Awesome Website For $15
-date:   2017-03-17 16:16:01 -0700
+date:   2017-04-10 16:16:01 -0700
 ---
 
 # {{page.title}}
 
+> "Your success is completely determined by how you use your mind, how you manage your critical resources, and how decisively you act to achieve the imposible with very few resources" - Mike Michalowicz, The Toilet Paper Entrepreneur
 
-You are an entrepreneur, a professional looking for job or maybe you need a simple website.
+Making a website can be expensive. You need:
+- Domain name (~$15USD yearly) _The name of your page_
+- Hosting (~$96USD yearly) _The server where your files are located_
+- Designer (~$400USD)
+- SSL Certificate (~$60USD) _Security Socket Layer, encrypths all the information between client and server_
+- Images and pictures (~$24USD).
 
-This tutorial applies to static webpages, if you have a web app, then you actually need more money.
+All of that can get to a total of ~$595USD for your first year.
+
+Here **I share with you options** that already exists to fill this requirements and spend as little as $15USD yearly.
+
+This tutorial applies to **static web pages**. A static web page always displays exactly the same, no matter who sees it. It doesn't use databases nor have a backend. Although you can use APIs to show dynamic content on your static web page.
 
 If you want a blog, then this tutorial is not for you, it can be done with the same budget but it needs a whole tutorial on its own. Maybe I will make a tutorial for that later.
-
-If you have looked around, there are a ton of options and you can end up spending about $200 on your website.
-
-Here I will show you step by step, how to do it spending as little as 15 dollars.
 
 # Who is this for?
 
 I wrote this tutorial with non-developers in mind.
 
-If you are a developer/programmer/designer you don't need to read all the tutorial. Go for the sites that I recommend and you can figure out everything else.
+If you are experienced in making websites you don't need to read all the tutorial. Go for the sites that I recommend at the bottom of this article and you can figure out everything else.
 
 Otherwise take your time going through each step.
 
 I'm going to try my best to explain everything so anyone can do it.
 
-If you have any question regarding this tutorial you can tweet me [@blodvodhr](https://twitter.com/blodvodhr) or opening an issue on [https://github.com/AndreGtz/blog/](https://github.com/AndreGtz/blog/)
+If you have any question regarding this tutorial you can ask in the comment section.
 
 # Let's get started: Adquiring your Domain name  
 
@@ -122,7 +128,7 @@ SSL (Secure Sockets Layer) is a standard technology to make an encrypted link be
 
 3 reasons to have a SSL Certificate:
 
-1. If you are getting data from users then you must have a SSL Certificate otherwise their data could be compromised.
+1. If you are **getting data from users** then you must have a SSL Certificate otherwise their data could be compromised.
 
 2. Having a SSL Certificate improves your score on search engines.
 
@@ -178,7 +184,7 @@ Most templates files look the same, you see a bunch of folders and a bunch of fi
 6 directories, 18 files
 {% endhighlight %}
 
-LLet's find out what do you need to change.
+Let's find out what do you need to change.
 
 Open the index.html on your web browser.
 
@@ -290,9 +296,9 @@ Otherwise it's not going to show up on github pages.
 
 Here it doesn't let me name it like that because I already have that repository.
 
-To have multiple pages you can name the repository 'otherpage' that will let you access your 'otherpage' with [username].github.io/otherpage.
+To have multiple pages you can name the repository **'otherpage'** that will let you access your **'otherpage'** with **[username].github.io/otherpage**.
 
-My blog's repository name is blog and you can see it on [andregtz.github.io/blog](https://andregtz.github.io/blog).
+My blog's repository name is **blog** and you can see it on [andregtz.github.io/blog](https://andregtz.github.io/blog).
 
 ## Uploading your content  
 
@@ -325,7 +331,7 @@ Click on **Manage** under **Domains**
 
 ![](/blog/images/godaddy-domains.png)
 
-Under your site name click on the top right corner 'gear icon' and select Manage DNS.
+Under your site name click on the top right corner **'gear icon'** and select **Manage DNS**.
 
 It should take you to a page similar to this one:
 ![](/blog/images/godaddy-dnsManagement.png)
@@ -334,9 +340,9 @@ Search the add button, mine is on the bottom of the list. And click it.
 
 You are going to add 3 new records for your domain.
 
-1. Add a new record in type select: A, in host: @ and in Points to: 192.30.252.153 . Leave TTL as it is.
-2. Add another new record in type select: A, in host: @ and in Points to: 192.30.252.154 . Leave TTL as it is.
-3. Now add a new record but in type select: CNAME, in host: www, and in Points to: yourusername.github.io.
+1. Add a new record in **type** select: **A**, in **host**: **@** and in **Points to**: **192.30.252.153** . Leave TTL as it is.
+2. Add another new record in **type** select: **A**, in **host**: **@** and in **Points to**: **192.30.252.154** . Leave TTL as it is.
+3. Now add a new record but in **type** select: **CNAME**, in **host**: **www**, and in **Points to**: **yourusername.github.io**.
 
 Mine looks like this:
 ![](/blog/images/records-1.png)
@@ -346,7 +352,7 @@ You need to wait until the changes propagate over the network, it took less than
 
 ### Setting the domain name on Github
 
-Go to your github repositorie and create a new document named CNAME, inside it write your domain name.
+Go to your github repository and create a new document named **CNAME**, inside it write your domain name.
 <iframe src='https://gfycat.com/ifr/PointlessImmediateAiredale' frameborder='0' scrolling='no' width='640' height='416' allowfullscreen></iframe>
 
 Wait a couple of minutes to take effect and now you can enter your domain name in the browser and it should show you your page.
@@ -354,14 +360,14 @@ Wait a couple of minutes to take effect and now you can enter your domain name i
 
 ## Setting the ssl  
 
-Go to cloudflare.com and +add a Site, if your account is new it should take you directly to that.
+Go to [cloudflare.com](https://cloudflare.com) and **+add a Site**, if your account is new it should take you directly to that.
 
 ![](/blog/images/cloudflare-addWebsite.png)
-Enter your domain name. Click on Scan DNS Records. And wait about a minute. (When I did this it showed me that the scanning was done, but clicking on continue didn't do anything, just wait a couple of minutes more and try again. Took me about 5min)
+Enter your domain name. Click on **Scan DNS Records**. And wait about a minute. (When I did this it showed me that the scanning was done, but clicking on continue didn't do anything, just wait a couple of minutes more and try again. Took me about 5min)
 
 Once the scanning is done click on continue.
 ![](/blog/images/scanning.png)
-Verify that your records are listed, just verify that the registers that you added on godaddy are listed there. With this I mean de two A registers and the CNAME register.
+Verify that your records are listed, just verify that the registers that you added on godaddy are listed there. With this I mean de two A registers and the CNAME register. If they are not there, add them.
 ![](/blog/images/verify-records.png)
 Click on continue.
 
