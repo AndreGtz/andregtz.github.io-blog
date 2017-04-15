@@ -5,7 +5,7 @@ description:
 baseurl:            "/blog"
 url:                "https://andrestefang.com"
 github:
-  url:               "http://andrestefang.com/blog"
+  url:               "https://andrestefang.com/blog"
 author:
   name:              "André Gutiérrez"
   email:             "andre@andrestefang.com"
