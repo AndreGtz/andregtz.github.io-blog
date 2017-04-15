@@ -1,19 +1,28 @@
 ---
 layout: post
 comments: true
-title:  How To Actually Build Your Awesome Website For $15
+title:  "How To Actually Build Your Awesome Website For $15"
 date:   2017-04-10 16:16:01 -0700
+tags: [tutorial,website,hosting]
+image:
+  feature: wood.jpg
+  teaser: wood.jpg
+  credit: Kaboompics
+  creditlink: "http://kaboompics.com/one_foto/580/wooden-robot"
+excerpt_separator: <!--more-->
 ---
 
-# {{page.title}}
+> Your success is completely determined by how you use your mind,
+> how you manage your critical resources, and how decisively you
+> act to achieve the imposible with very few resources.
+> <br/>
+> **Mike Michalowicz, The Toilet Paper Entrepreneur**.
 
-> "Your success is completely determined by how you use your mind, how you manage your critical resources, and how decisively you act to achieve the imposible with very few resources" - Mike Michalowicz, The Toilet Paper Entrepreneur
-
-Making a website can be expensive. You need:
-- Domain name (~$15USD yearly) _The name of your page_
-- Hosting (~$96USD yearly) _The server where your files are located_
-- Designer (~$400USD)
-- SSL Certificate (~$60USD) _Security Socket Layer, encrypths all the information between client and server_
+Making a website can be expensive. You need:<!--more-->
+- Domain name (~$15USD yearly) _The name of your page_.
+- Hosting (~$96USD yearly) _The server where your files are located_.
+- Designer (~$400USD).
+- SSL Certificate (~$60USD) _Security Socket Layer, encrypths all the information between client and server_.
 - Images and pictures (~$24USD).
 
 All of that can get to a total of ~$595USD for your first year.
