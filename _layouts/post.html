@@ -2,22 +2,31 @@
 layout: default
 ---
 
+<h1>
+  {{ page.title }}
+</h1>
+
+{% if page.image.feature %}
+  <img src="{{ site.github.url }}/images/{{ page.image.feature }}">
+{% endif %}
+
 {{ content }}
 
-{% if site.disqus.shortname %}
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
-    };
-    (function() {
-      var d = document, s = d.createElement('script'); s.type= 'text/javascript'; s.async= true;
-      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<span class="post-date">
+  Written on
+  {% assign d = page.date | date: "%-d"  %}
+  {{ page.date | date: "%B" }}
+  {% case d %}
+    {% when '1' or '21' or '31' %}{{ d }}st
+    {% when '2' or '22' %}{{ d }}nd
+    {% when '3' or '23' %}{{ d }}rd
+    {% else %}{{ d }}th{% endcase %},
+  {{ page.date | date: "%Y" }}
+  by {{ site.author.name }}
+</span>
+{% include social-sharing.html %}
+{% include related-posts.html %}
 
+{% if site.disqus %}
+  {% include disqus.html %}
 {% endif %}

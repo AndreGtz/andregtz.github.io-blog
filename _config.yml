@@ -1,5 +1,30 @@
-theme: jekyll-theme-cayman
-permalink: /:year-:month-:day/:title/
-baseurl: /blog
-disqus:
-  shortname: andrestefang
+# Site Settings
+title:               AndreStefanG
+tagline:             a blog about web technologies
+description:
+baseurl:            "/blog"
+url:                "https://andrestefang.com"
+github:
+  url:               "http://127.0.0.1:4000/blog"
+author:
+  name:              "André Gutiérrez"
+  email:             "andre@andrestefang.com"
+  twitter:           "blodvodhr"
+  github:            "andregtz"
+  facebook:          "colpac64"
+navigation:
+- title: About
+  url: /about
+- title: Writing
+  url: /writing
+- title: Contact
+  url: /contact
+
+paginate:            5
+disqus:              "andrestefang"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
