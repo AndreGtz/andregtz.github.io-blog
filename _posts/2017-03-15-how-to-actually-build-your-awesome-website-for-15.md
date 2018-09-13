@@ -12,13 +12,13 @@ image:
 excerpt_separator: <!--more-->
 ---
 
-> Your success is completely determined by how you use your mind,
+> <span>"</span>Your success is completely determined by how you use your mind,
 > how you manage your critical resources, and how decisively you
-> act to achieve the imposible with very few resources.
+> act to achieve the imposible with very few resources.<span>"</span>
 > <br/>
 > **Mike Michalowicz, The Toilet Paper Entrepreneur**.
 
-Making a website can be expensive. You need:<!--more-->
+Making a website the common way can be expensive. Normally you will need:<!--more-->
 - Domain name (~$15USD yearly) _The name of your page_.
 - Hosting (~$96USD yearly) _The server where your files are located_.
 - Designer (~$400USD).
@@ -32,6 +32,22 @@ Here **I share with you options** that already exists to fill this requirements 
 This tutorial applies to **static web pages**. A static web page always displays exactly the same, no matter who sees it. It doesn't use databases nor have a backend. Although you can use APIs to show dynamic content on your static web page.
 
 If you want a blog, then this tutorial is not for you, it can be done with the same budget but it needs a whole tutorial on its own. Maybe I will make a tutorial for that later.
+
+For your convenience here is the index of contents:
+
+- [Who is this for](#who-is-this-for)
+- [Let's get started: Adquiring your Domain name](#lets-get-started-adquiring-your-domain-name)
+- [Hosting: Where your files are going to live](#hosting-where-your-files-are-going-to-live)
+- [The design](#the-design)
+- [Stock Pictures: A powerful resource to make a normal website, beautiful](#stock-pictures-a-powerful-resource-to-make-a-normal-website-beautiful)
+- [SSL: The security aspect](#ssl-the-security-aspect)
+- [Using your template to actually show your info](#using-your-template-to-actually-show-your-info)
+- [Mounting your site on Github pages](#mounting-your-site-on-github-pages)
+- [Setting the domain name](#setting-the-domain-name)
+- [Setting the ssl](#setting-the-ssl)
+- [Modifing your site inside Github](#modifing-your-site-inside-github)
+- [Recap for the experienced](#recap-for-the-experienced)
+- [Final notes](#final-notes)
 
 # Who is this for?
 
@@ -56,7 +72,7 @@ I'm going to explain how to register your domain with GoDaddy. Because it's my p
 In Godaddy you can get a .com domain for 15USD per year.
 
 To begin with use their search tool to find if your name is available, I'm going to search for *mypage*:
-<iframe src='https://gfycat.com/ifr/ImperturbableScrawnyDamselfly' frameborder='0' scrolling='no' width='640' height='357' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/ImperturbableScrawnyDamselfly' frameborder='0' scrolling='no' width='100%' height='357' allowfullscreen></iframe>
 Which returns all domains available for "mypage" or a little variation of "mypage".
 
 ## Which one is the best?  
@@ -81,7 +97,7 @@ This info will be public if people request the WhoIs for your domain name. Godad
 
 If your privacy concerns you, go ahead an pay for it, otherwhise your info will be exposed on internet.
 
-<iframe src='https://gfycat.com/ifr/FreshAdorableKitfox' frameborder='0' scrolling='no' width='640' height='357' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/FreshAdorableKitfox' frameborder='0' scrolling='no' width='100%' height='357' allowfullscreen></iframe>
 
 Buy it and move on to the next step.
 
@@ -92,7 +108,7 @@ Is more oriented to programmers but you can use it without knowing how to progra
 
 For now create an account at [Github](https://github.com/), we are going to use it later.
 
-<iframe src='https://gfycat.com/ifr/MellowAfraidAdamsstaghornedbeetle' frameborder='0' scrolling='no' width='640' height='382' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/MellowAfraidAdamsstaghornedbeetle' frameborder='0' scrolling='no' width='100%' height='382' allowfullscreen></iframe>
 
 # The design
 If you are a web designer skip this step.
@@ -106,7 +122,7 @@ Here are some sites I go to search themes for my pages:
 - [themeforest](https://themeforest.net/category/site-templates/) templates for sale <$20 and give you support
 - [templated](https://templated.co/) free templates
 
-<iframe src='https://gfycat.com/ifr/ThoroughMenacingBasil' frameborder='0' scrolling='no' width='640' height='382' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/ThoroughMenacingBasil' frameborder='0' scrolling='no' width='100%' height='382' allowfullscreen></iframe>
 
 Some of them are free others cost you less than $20.
 
@@ -125,7 +141,7 @@ Always look at the license for the pictures.
 - [pixabay](https://pixabay.com/)
 - [pexels](https://www.pexels.com/) you can search here photos from other sites like unsplash and pixabay.
 
-<iframe src='https://gfycat.com/ifr/HeavenlyAppropriateCopperhead' frameborder='0' scrolling='no' width='640' height='382' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/HeavenlyAppropriateCopperhead' frameborder='0' scrolling='no' width='100%' height='382' allowfullscreen></iframe>
 
 Since you are getting them for free, I invite you to donate to the authors and communities for their hard work.
 
@@ -197,17 +213,19 @@ Let's find out what do you need to change.
 
 Open the index.html on your web browser.
 
-<iframe src='https://gfycat.com/ifr/JointOrneryAllosaurus' frameborder='0' scrolling='no' width='640' height='357' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/JointOrneryAllosaurus' frameborder='0' scrolling='no' width='100%' height='357' allowfullscreen></iframe>
 
 So that's the website, it still has the template text and titles, let's change that.
 
-The title: Also known as the tab text.
+Open the file index.html on a text editor. (You can use plain text editors like Notepad, Atom, Gedit and vim).
+
+Change the title: Also known as the tab text.
 
 I'm going to change it to Andre's Portfolio.
-<iframe src='https://gfycat.com/ifr/PerfumedMealyGroundbeetle' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/PerfumedMealyGroundbeetle' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 
-Next change the navigation title to your own.
-<iframe src='https://gfycat.com/ifr/PinkFineHammerkop' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+Next change the navigation bar title to your own.
+<iframe src='https://gfycat.com/ifr/PinkFineHammerkop' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 
 Search for the word(s) you want to change, change it, save, and reload the page.
 
@@ -215,14 +233,14 @@ Change the
 > Hi, my name is Forty
 
 and the description below it, also remove the button.
-<iframe src='https://gfycat.com/ifr/WarpedForsakenGossamerwingedbutterfly' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/WarpedForsakenGossamerwingedbutterfly' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 
 Keep doing this until you are satisfied with all the page. Remove anything you don't want.
 
 So far we have this:
 ![webpage](/blog/images/editedWebPage.png)
 
-Remember those stock photos I told you, now we are using them.
+Remember those stock photos I told you?, now we are using them.
 If you can recall from the directory structure, there were some images named like banner.jpg and pic01.jpg.
 I'll make it easier, here:
 {% highlight shell %}
@@ -255,7 +273,7 @@ I'll make it easier, here:
 {% endhighlight %}
 
 Include your images to the same folder:
-<iframe src='https://gfycat.com/ifr/LazyImpassionedBagworm' frameborder='0' scrolling='no' width='640' height='415' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/LazyImpassionedBagworm' frameborder='0' scrolling='no' width='100%' height='415' allowfullscreen></iframe>
 
 Then you need to make the website show your images instead of the template images.
 
@@ -264,13 +282,13 @@ Things are turning technical, but follow me, this is the last step on before we 
 There are two ways to show images: HTML or CSS. You need to search if the specific image you want to change is declared on the index.html or in css/main.css (normally you will have a main.css or base.css).
 
 Search on the index.html for banner.jpg to see if it is declared there:
-<iframe src='https://gfycat.com/ifr/MammothRightEsok' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/MammothRightEsok' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 ... No, it is not there.
 Maybe in main.css
-<iframe src='https://gfycat.com/ifr/MagnificentFrequentBrahmancow' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/MagnificentFrequentBrahmancow' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 Oh, there it is. Change the name of the file to your file, in my case 'walking.jpg'.  
 And reload the page.
-<iframe src='https://gfycat.com/ifr/AmazingCreamyKarakul' frameborder='0' scrolling='no' width='640' height='386' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/AmazingCreamyKarakul' frameborder='0' scrolling='no' width='100%' height='386' allowfullscreen></iframe>
 There, you made it.
 
 Now add one more.
@@ -279,7 +297,7 @@ Find pic01.jpg, looks like it is in index.html.
 
 Change the name of the file to yours and refresh page.
 
-<iframe src='https://gfycat.com/ifr/DifficultAssuredDikkops' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/DifficultAssuredDikkops' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 
 You can repeat this process for every image that you want to change.
 
@@ -301,7 +319,7 @@ Otherwise it's not going to show up on github pages.
 
 **Important: be sure to enable the 'Initialize this repository with a README' checkbox**. Otherwise it won't let you upload your files.
 
-<iframe src='https://gfycat.com/ifr/ImpishVastKoodoo' frameborder='0' scrolling='no' width='640' height='369' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/ImpishVastKoodoo' frameborder='0' scrolling='no' width='100%' height='369' allowfullscreen></iframe>
 
 Here it doesn't let me name it like that because I already have that repository.
 
@@ -313,20 +331,20 @@ My blog's repository name is **blog** and you can see it on [andregtz.github.io/
 
 On your repository, click upload files button, select all the files of your site.
 Wait until it uploads them.
-<iframe src='https://gfycat.com/ifr/HilariousVainCat' frameborder='0' scrolling='no' width='640' height='368' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/HilariousVainCat' frameborder='0' scrolling='no' width='100%' height='368' allowfullscreen></iframe>
 
 Now you should be able to see your content on: https://[yourusername].github.io/
 
 If it doesn't appear go to settings and activate github pages.
 
-<iframe src='https://gfycat.com/ifr/SoreSlimyGordonsetter' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/SoreSlimyGordonsetter' frameborder='0' scrolling='no' width='100%' height='419' allowfullscreen></iframe>
 
 If it still doesn't load try creating a file named '\_config.yml' and putting your project name
 {% highlight yml %}
 baseurl:/portfolio
 {% endhighlight %}
 
-<iframe src='https://gfycat.com/ifr/CommonBasicBaboon' frameborder='0' scrolling='no' width='640' height='419' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/CommonBasicBaboon' frameborder='0' scrolling='no' width='100%' height='419' allowfullscreen></iframe>
 
 ## Setting the domain name  
 
@@ -362,7 +380,7 @@ You need to wait until the changes propagate over the network, it took less than
 ### Setting the domain name on Github
 
 Go to your github repository and create a new document named **CNAME**, inside it write your domain name.
-<iframe src='https://gfycat.com/ifr/PointlessImmediateAiredale' frameborder='0' scrolling='no' width='640' height='416' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/PointlessImmediateAiredale' frameborder='0' scrolling='no' width='100%' height='416' allowfullscreen></iframe>
 
 Wait a couple of minutes to take effect and now you can enter your domain name in the browser and it should show you your page.
 ![](/blog/images/working.png)
@@ -386,7 +404,7 @@ Choose the Free Website option.
 Click on continue.
 
 Change the nameservers to the ones provided by cloudflare.
-<iframe src='https://gfycat.com/ifr/UnknownGleefulGoat' frameborder='0' scrolling='no' width='640' height='446' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/UnknownGleefulGoat' frameborder='0' scrolling='no' width='100%' height='446' allowfullscreen></iframe>
 
 Check your email godaddy might ask you if you did this, confirm you did.
 
@@ -395,6 +413,8 @@ Next email you get should be from cloudflare saying that you have successfully a
 It can take 24hrs to see the change, once it finishes your webpage should say https before your domain name.
 
 ![](/blog/images/cloudflare-done.png)
+
+
 ![](/blog/images/https.png)
 
 
@@ -422,7 +442,7 @@ for
 
 Then I commit the changes and reload the page (notice that it takes a few seconds to update your changes on the site).
 
-<iframe src='https://gfycat.com/ifr/NaiveImmediateIbisbill' frameborder='0' scrolling='no' width='640' height='460' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/NaiveImmediateIbisbill' frameborder='0' scrolling='no' width='100%' height='460' allowfullscreen></iframe>
 
 If you have more things to change repeat these steps for all the changes you want.
 
